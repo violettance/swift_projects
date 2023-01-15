@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0995A2AF-E059-4DB9-B3C0-3BA1D4EE698F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9177414-F1C3-4EEB-BA59-E1D2325A901F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final-project/UserRegister.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "UserRegister"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D9177414-F1C3-4EEB-BA59-E1D2325A901F - dc320efb04e9f5f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.UserRegister.txtMail.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "final-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/final-project/final-project/UserRegister.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D9177414-F1C3-4EEB-BA59-E1D2325A901F - d9517bf5933739fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.UserRegister.txtMail.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "final-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/final-project/final-project/UserRegister.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "D9177414-F1C3-4EEB-BA59-E1D2325A901F - 6bac7182734c6a32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.UserRegister.txtMail.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "final-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/final-project/final-project/UserRegister.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "D9177414-F1C3-4EEB-BA59-E1D2325A901F - 614d1599c3e5370b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.UserRegister.txtMail.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "final-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/final-project/final-project/UserRegister.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "D9177414-F1C3-4EEB-BA59-E1D2325A901F - 288ba7c028d2177d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.UserRegister.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; final_project.UserRegister"
+                  moduleName = "final-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/final-project/final-project/UserRegister.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "623">
+               </Location>
+               <Location
+                  uuid = "D9177414-F1C3-4EEB-BA59-E1D2325A901F - 46817b0417531728"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final_project.UserRegister.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;final_project.UserRegister&gt;"
+                  moduleName = "final-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/final-project/final-project/UserRegister.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68B94B56-8DB7-4CE6-9C69-92CAFF9BC3E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final-project/OrderTable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

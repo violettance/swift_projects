@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2DF7113F-8FB3-429B-81F4-0E8094E896B4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F8ED87D-A994-47DC-9F44-BBBFFF4F5798"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vegan-candle-project/HomeController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "HomeController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1F8ED87D-A994-47DC-9F44-BBBFFF4F5798 - 5c46ca1183f85805"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vegan_candle_project.HomeController.txtDetail.getter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "vegan-candle-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/vegan-candle-project/vegan-candle-project/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1F8ED87D-A994-47DC-9F44-BBBFFF4F5798 - c9a0fe65116210f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vegan_candle_project.HomeController.txtDetail.setter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "vegan-candle-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/vegan-candle-project/vegan-candle-project/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "1F8ED87D-A994-47DC-9F44-BBBFFF4F5798 - ced8f60b96ca24db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vegan_candle_project.HomeController.txtDetail.modify : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "vegan-candle-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/vegan-candle-project/vegan-candle-project/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "1F8ED87D-A994-47DC-9F44-BBBFFF4F5798 - f54ae5c48c450ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vegan_candle_project.HomeController.txtDetail.modify : Swift.Optional&lt;__C.UITextView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "vegan-candle-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/vegan-candle-project/vegan-candle-project/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "1F8ED87D-A994-47DC-9F44-BBBFFF4F5798 - 2c18b4f0f3df307"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vegan_candle_project.HomeController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; vegan_candle_project.HomeController"
+                  moduleName = "vegan-candle-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/vegan-candle-project/vegan-candle-project/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "1181">
+               </Location>
+               <Location
+                  uuid = "1F8ED87D-A994-47DC-9F44-BBBFFF4F5798 - ecb6f24c2db7c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vegan_candle_project.HomeController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;vegan_candle_project.HomeController&gt;"
+                  moduleName = "vegan-candle-project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iremkurt/Desktop/ios_mobile_development_bootcamp/projects/vegan-candle-project/vegan-candle-project/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "1122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
